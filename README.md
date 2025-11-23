@@ -4,7 +4,7 @@
 https://colab.research.google.com/github/abiquintana/challenge1_data_science/blob/main/Challenge1.ipynb
 
 
-Este proyecto corresponde al **Challenge 1 de Data Science**, donde se analizan los datos de cuatro tiendas con el objetivo de determinar cuál de ellas debería vender el Sr. Juano basándose en su rendimiento general.
+Este proyecto corresponde al **Challenge 1 de Data Science**, donde se analizan los datos de cuatro tiendas con el objetivo de determinar cuál de ellas debería vender el Sr. Juan basándose en su rendimiento general.
 
 ## 📌 Objetivo del proyecto
 
